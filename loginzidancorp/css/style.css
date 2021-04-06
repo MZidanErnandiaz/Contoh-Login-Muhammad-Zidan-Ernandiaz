@@ -1,0 +1,73 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.content{
+	padding: 0;
+	margin: 0;
+}
+.konten{
+	padding: 1.5% 4.5%;
+}
+.konten center{
+	padding-bottom: 5%;
+}
+.konten .logo{
+	width: 40%;
+}
+.konten h1{
+	padding-top: 5.7%;
+	font-size: 24px;
+    font-weight: 300;
+    letter-spacing: -.5px;
+}
+.konten .fill{
+	background: #F6F8FA;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    padding: 5.5% 7%;
+}
+.konten .fill form{
+	margin: 0;
+}
+.konten .fill input{
+	height: 30px;
+}
+.konten .fill label{
+	font-size: 14px;
+}
+.konten .fill .forgot{
+	padding-top: 5.5%;
+}
+.konten .fill a{
+	font-size: 12px;
+	vertical-align: middle;
+	text-decoration: none;
+}
+.konten .fill a button{
+	font-size: 12px;
+	border: none;
+	background: none;
+	padding: 2%;
+	width: 100%;
+	background: #2EA44F;
+	border-color: #59A771;
+	font-weight: bold;
+	color: white;
+}
+.konten .fill1{
+    border: 1px solid #D1D5DA;
+    border-radius: 6px;
+    padding: 4% 7%;
+	text-align: center;
+}
+.konten .fill1 label{
+	font-size: 14px;
+	margin: 0;
+}
+.konten .fill1 label a{
+	text-decoration: none;
+}
+.logout{
+	margin-right: 2%;
+}
